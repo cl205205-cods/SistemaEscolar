@@ -1,5 +1,6 @@
 Aluno 1 - João, 16 anos
-Aluno 2 - Lucia, 16 anos
+Aluno 2 - Lucia, 17 anos
 Aluno 3 - Marcela, 18 anos
 Aluno 4 - Jean, 15 anos
 Aluno 5 - Marco, 17 anos
+Aluno 5 - Paula, 15 anos
