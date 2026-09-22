@@ -1,1 +1,1 @@
-Funcionalidades: Cadastro de alunos, gerenciamento escolar e planejamento.
+Funcionalidades: Cadastro de alunos, gerenciamento escolar, planejamento e monitoramento de desempenho.
